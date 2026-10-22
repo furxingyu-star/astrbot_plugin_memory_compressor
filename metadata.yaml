@@ -1,0 +1,7 @@
+name: astrbot_plugin_memory_compressor
+display_name: 记忆压缩器
+short_desc: 对话压缩时提取长期事实，按需检索，节省上下文。
+desc: 接管 AstrBot 的上下文压缩，将旧对话压缩为摘要与可检索的事实档案，索引常驻、细节按需取回。
+version: 1.0.0
+author: your_name
+repo: https://github.com/furxingyu-star/astrbot_plugin_memory_compressor
